@@ -1,0 +1,9 @@
+// exp=2 torna o exp com o valor padrão = á 2
+
+function potencia(base,exp=2) {
+    return Math.pow(base,exp);
+}
+
+console.log(potencia(2));
+console.log(potencia(2,2));
+console.log(potencia(2,4))
