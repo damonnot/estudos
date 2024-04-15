@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+    background-color: chartreuse;
+}
+
+h1{
+    color: aquamarine;
+}
+
+h2{
+    color: blue;
+}
+
+p{
+    color: crimson;
+}
